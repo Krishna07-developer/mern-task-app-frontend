@@ -5,7 +5,7 @@ import { toast } from 'react-toastify';
 import axios from "axios"
 import loadingImg from "../assests/Spinner-3.gif"
 
-export const URL = "http://localhost:5000"
+export const URL = "https://mern-task-app-api-n5v1.onrender.com"
 
 
 const TaskList = () => {
